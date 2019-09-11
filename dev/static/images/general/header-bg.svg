@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1926 161.06">
+  <defs>
+    <clipPath id="a" transform="translate(-9 -8)">
+      <rect x="9" y="8" width="1926" height="161.06" style="fill: none"/>
+    </clipPath>
+    <clipPath id="c" transform="translate(-9 -8)">
+      <rect width="1944" height="170.06" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>header-bg</title>
+  <g style="clip-path: url(#a)">
+    <g style="clip-path: url(#a)">
+      <g style="opacity: 0.10000599920749664">
+        <g style="clip-path: url(#c)">
+          <rect width="1926" height="161.06" style="fill: #262424"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

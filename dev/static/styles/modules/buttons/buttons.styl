@@ -1,0 +1,29 @@
+.btn
+    background-color $main-text-color
+    border-radius 0.93vh
+    border 0
+    color $btn-color
+    font-weight bold
+    text-transform uppercase
+    transition all .2s linear
+    padding 0
+    margin 0
+    position relative
+    cursor pointer
+
+    &:hover,
+    &:focus
+        box-shadow 0px 0px 0.93vh .1vh rgba(0,0,0,0.3)
+    
+    &:active
+        transform scale(0.98)
+    
+    &:after
+        content ''
+        border 1px dashed $btn-color
+        position absolute
+        left 0
+        bottom 0
+        right 0
+        top 0
+        border-radius 0.93vh

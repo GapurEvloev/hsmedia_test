@@ -11,6 +11,7 @@ body
   background-color $white
   font-size $fz-sm
   font-family $gothampro
+  color $main-text-color
 
   @media (min-width: $grid-lg)
     font-size $fz-base
@@ -51,16 +52,27 @@ button { outline: none; }
 .wrapper {
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height 100vh
+  position relative
+  background-image url(../images/general/main-bg.png)
 }
 
-.main { flex: 1 0 auto; }
+.content
+  display flex
+  flex-direction column
+  justify-content space-between
+  height 100%
+
+.main 
+  max-width 50vw
+  padding 0 2.6vw
+  margin-bottom: auto
 
 .container
     margin-left auto
     margin-right auto
-    padding-left calc(var(--grid-gutter-width) / 2)
-    padding-right calc(var(--grid-gutter-width) / 2)
+    padding-left 2.24vw
+    padding-right 2.24vw
     width 100%
 
 // @media (min-width: $grid-sm)

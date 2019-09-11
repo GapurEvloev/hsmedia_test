@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 270 270">
+  <defs>
+    <clipPath id="a">
+      <rect width="270" height="270" style="fill: none"/>
+    </clipPath>
+    <clipPath id="d">
+      <rect x="92.71" y="83.36" width="86.88" height="95.91" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>banner-icon</title>
+  <g style="clip-path: url(#a)">
+    <g style="clip-path: url(#a)">
+      <path d="M135,270A135,135,0,1,0,0,135,135,135,0,0,0,135,270" style="fill: #ba0023"/>
+      <path d="M135,226.3A91.3,91.3,0,1,0,43.7,135,91.3,91.3,0,0,0,135,226.3" style="fill: #ba0023"/>
+      <path d="M139.94,226.17a91.31,91.31,0,0,0,86.32-88.7" style="fill: none;stroke: #f4f2d0;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.4760000705718994px;stroke-dasharray: 0,4.946000099182129"/>
+      <path d="M226.17,130.06a91.31,91.31,0,0,0-88.7-86.32" style="fill: none;stroke: #f4f2d0;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.4760000705718994px;stroke-dasharray: 0,4.946000099182129"/>
+      <path d="M130.06,43.83a91.31,91.31,0,0,0-86.32,88.7" style="fill: none;stroke: #f4f2d0;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.4760000705718994px;stroke-dasharray: 0,4.946000099182129"/>
+      <path d="M43.83,139.94a91.31,91.31,0,0,0,88.7,86.32" style="fill: none;stroke: #f4f2d0;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.4760000705718994px;stroke-dasharray: 0,4.946000099182129"/>
+      <path d="M135,226.3h0M43.7,135h0M135,43.7h0M226.3,135h0" style="fill: none;stroke: #f4f2d0;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.4760000705718994px"/>
+    </g>
+    <text transform="translate(121.42 238.79) rotate(-167.72)" style="font-size: 25.253326416015625px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">П</text>
+    <text transform="matrix(-0.93, -0.38, 0.38, -0.93, 102.46, 234.39)" style="font-size: 25.253265380859375px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Р</text>
+    <text transform="translate(86.3 227.81) rotate(-146.65)" style="font-size: 25.253246307373047px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">И</text>
+    <text transform="matrix(-0.73, -0.68, 0.68, -0.73, 69.71, 216.69)" style="font-size: 25.25328826904297px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Ч</text>
+    <text transform="translate(56.48 204.32) rotate(-126.1)" style="font-size: 25.253292083740234px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">И</text>
+    <text transform="translate(44.7 188.15) rotate(-115.03)" style="font-size: 25.253263473510742px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Н</text>
+    <text transform="matrix(-0.31, -0.95, 0.95, -0.31, 36.81, 170.38)" style="font-size: 25.253267288208008px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro"> </text>
+    <text transform="translate(33.92 163.02) rotate(-99.41)" style="font-size: 25.253324508666992px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">П</text>
+    <text transform="translate(30.6 143.8) rotate(-89.28)" style="font-size: 25.25332260131836px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">О</text>
+    <text transform="translate(31.13 121.79) rotate(-77.72)" style="font-size: 25.253326416015625px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">С</text>
+    <text transform="translate(35.14 103) rotate(-66.37)" style="font-size: 25.253337860107422px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">М</text>
+    <text transform="matrix(0.59, -0.81, 0.81, 0.59, 44.26, 82.43)" style="font-size: 25.253292083740234px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">О</text>
+    <text transform="matrix(0.72, -0.7, 0.7, 0.72, 56.62, 65.78)" style="font-size: 25.253284454345703px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Т</text>
+    <text transform="matrix(0.82, -0.57, 0.57, 0.82, 68.76, 54.02)" style="font-size: 25.253284454345703px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Р</text>
+    <text transform="translate(83.09 44.12) rotate(-25.03)" style="font-size: 25.253263473510742px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Е</text>
+    <text transform="translate(98.91 36.71) rotate(-15.14)" style="font-size: 25.253339767456055px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Т</text>
+    <text transform="translate(115.22 32.29) rotate(-6.52)" style="font-size: 25.253297805786133px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Ь</text>
+    <text transform="translate(132.36 30.67) rotate(0.72)" style="font-size: 25.25332260131836px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro"> </text>
+    <text transform="translate(140.23 30.42) rotate(7.97)" style="font-size: 25.253263473510742px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Д</text>
+    <text transform="translate(159.67 33.09) rotate(19.4)" style="font-size: 25.253253936767578px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">О</text>
+    <text transform="matrix(0.88, 0.47, -0.47, 0.88, 179.97, 40.79)" style="font-size: 25.253292083740234px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro"> </text>
+    <text transform="matrix(0.82, 0.57, -0.57, 0.82, 187.07, 44.19)" style="font-size: 25.253284454345703px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">В</text>
+    <text transform="matrix(0.7, 0.72, -0.72, 0.7, 202.53, 54.88)" style="font-size: 25.253284454345703px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">С</text>
+    <text transform="matrix(0.57, 0.82, -0.82, 0.57, 215.9, 68.63)" style="font-size: 25.253284454345703px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Т</text>
+    <text transform="translate(225.6 82.49) rotate(64.97)" style="font-size: 25.253263473510742px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Р</text>
+    <text transform="translate(233.11 98.22) rotate(74.86)" style="font-size: 25.253339767456055px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Е</text>
+    <text transform="translate(237.69 115.06) rotate(83.48)" style="font-size: 25.253297805786133px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Ч</text>
+    <text transform="translate(239.62 133.05) rotate(93.63)" style="font-size: 25.253253936767578px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">И</text>
+    <text transform="translate(237.9 152.67) rotate(102.28)" style="font-size: 25.253326416015625px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro"> </text>
+    <text transform="translate(236.63 160.45) rotate(109.4)" style="font-size: 25.253253936767578px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">С</text>
+    <text transform="translate(230.04 178.15) rotate(116.42)" style="font-size: 25.2532901763916px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro"> </text>
+    <text transform="translate(226.76 185.29) rotate(123.35)" style="font-size: 25.253246307373047px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Т</text>
+    <text transform="matrix(-0.68, 0.73, -0.73, -0.68, 218.35, 198.52)" style="font-size: 25.25328826904297px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">О</text>
+    <text transform="translate(203.12 214.4) rotate(143.9)" style="font-size: 25.253292083740234px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Б</text>
+    <text transform="translate(188.22 225.27) rotate(154.97)" style="font-size: 25.253263473510742px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">О</text>
+    <text transform="translate(168.14 234.28) rotate(166.29)" style="font-size: 25.25328254699707px;fill: #f4f2d0;font-family: GothamPro, Gotham Pro">Й</text>
+    <g style="clip-path: url(#a)">
+      <path d="M134.71,187.48c23.73,0,39.21-13.86,39.21-35.67,0-23.59-16.07-33.32-36.12-33.32a50.54,50.54,0,0,0-13.56,1.77l1.18-17.84h43.93V82.52H106L103,133.38l13.12,8.7a44.22,44.22,0,0,1,17.25-3.84c10.76,0,18.28,5.16,18.28,14,0,9.43-6.64,14.59-17.25,14.59-9.14,0-16.8-4.13-24.62-11.2L96.08,172c10,9.58,22.12,15.48,38.63,15.48" style="fill: #f4f2d0"/>
+      <g style="opacity: 0.10000599920749664">
+        <g style="clip-path: url(#d)">
+          <path d="M169.44,92.51H115.35l-2.13,38.69s52-13.72,51.22,21.22c-.83,39.12-53,22.47-61.58,12.49" style="fill: #f4f2d0"/>
+        </g>
+      </g>
+      <line x1="164.93" y1="92.51" x2="117.6" y2="92.51" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.303999900817871px;stroke-dasharray: 0,4.507999897003174"/>
+      <line x1="115.08" y1="97.34" x2="113.35" y2="128.78" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.303999900817871px;stroke-dasharray: 0,4.8429999351501465"/>
+      <path d="M117.77,130.21c12.31-2.33,45.35-6.13,46.64,19.88" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.303999900817871px;stroke-dasharray: 0,4.665999889373779"/>
+      <path d="M164.08,157.06c-4.51,31.29-47.88,19-59.53,9.45" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.303999900817871px;stroke-dasharray: 0,4.6529998779296875"/>
+      <path d="M102.86,164.91h0m61.58-12.49h0M113.22,131.2h0m2.13-38.69h0m54.09,0h0" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.303999900817871px"/>
+      <path d="M139.43,241.81c-2.72-.35-4.33,2.52-4.43,2.71-.1-.19-1.71-3.06-4.43-2.71s-6.68,5.44,4.43,12.72h0c11.1-7.28,7.24-12.35,4.42-12.72" style="fill: #f4f2d0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.74 140.55">
+  <title>burger</title>
+  <g>
+    <polygon points="0 0 0 140.55 43.84 121.26 86.74 140.55 86.74 0 0 0" style="fill: #f4f2d0"/>
+    <polygon points="80.07 9.26 80.07 128.72 43.77 112.32 6.67 128.72 6.67 9.26 80.07 9.26" style="fill: #f4f2d0"/>
+    <line x1="80.07" y1="13.52" x2="80.07" y2="126.59" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.0999999046325684px;stroke-dasharray: 0,4.267000198364258"/>
+    <line x1="76.04" y1="126.9" x2="45.79" y2="113.23" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.0999999046325684px;stroke-dasharray: 0,4.426000118255615"/>
+    <line x1="40.06" y1="113.96" x2="8.52" y2="127.9" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.0999999046325684px;stroke-dasharray: 0,4.056000232696533"/>
+    <line x1="6.67" y1="124.45" x2="6.67" y2="11.39" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.0999999046325684px;stroke-dasharray: 0,4.267000198364258"/>
+    <line x1="10.99" y1="9.26" x2="77.91" y2="9.26" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.0999999046325684px;stroke-dasharray: 0,4.317999839782715"/>
+    <path d="M80.07,9.26h0m-73.4,0h0m0,119.46h0m37.1-16.4h0m36.3,16.4h0" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.0999999046325684px"/>
+    <line x1="63.73" y1="58.51" x2="23.01" y2="58.51" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-width: 6.043000221252441px"/>
+    <line x1="63.73" y1="73.3" x2="23.01" y2="73.3" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-width: 6.043000221252441px"/>
+    <line x1="63.73" y1="88.08" x2="23.01" y2="88.08" style="fill: none;stroke: #ba0023;stroke-linecap: round;stroke-width: 6.043000221252441px"/>
+  </g>
+</svg>
