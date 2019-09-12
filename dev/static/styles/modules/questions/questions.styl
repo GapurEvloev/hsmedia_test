@@ -1,2 +1,82 @@
 .questions
     display none
+    
+    &.questions--active
+        display block
+
+    &__title
+        font-size 2.66vw
+        font-family $cochin
+        font-style italic
+        font-weight 300
+        text-transform uppercase
+        position relative
+        text-align center
+        height 10.52vw
+        max-height 18.7vh
+        display flex
+        align-items center
+        justify-content center
+    
+        &:after
+            left 50%
+            bottom 0
+            transform translateX(-50%)
+            content ''
+            position absolute
+            height 0.99vw
+            width 15.05vw
+            background-image url(../images/content/question/question-title-icon.svg)
+            background-repeat no-repeat
+            background-size contain
+            background-position center
+
+    &__list
+        padding 2.29vw 2vw
+    
+    &__item
+        text-align center
+        
+        &:not(:last-child)
+            margin-bottom 1.72vw
+    
+    &__link
+        font-size 1.51vw
+        font-weight 300
+        color $main-text-color
+        transition all .2s  linear
+        text-align center
+        text-transform uppercase
+        line-height 1
+        padding 0.68vw 1.09vw 0.43vw
+        border 2px solid transparent
+        border-radius 0.63vw
+        display inline-block
+        position relative
+
+        &:before,
+        &:after
+            content ''
+            height 0.52vmax
+            width 0.52vmax
+            background-color $main-text-color
+            position absolute
+            border-radius 50%
+            top 50%
+            transform translateY(-50%)
+            display none
+        &:before
+            left -0.3vmax
+        &:after
+            right -0.3vmax
+
+
+        &:focus,
+        &:hover
+            outline: none
+            font-weight 500
+            border 2px solid $main-text-color
+
+            &:before,
+            &:after
+                display block
